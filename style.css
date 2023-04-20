@@ -12,6 +12,9 @@ justify-content: center;
 align-items: center;
 min-height: 100vh;
 display: flex;
+flex-wrap: wrap;
+max-width: 800px;
+margin: 0 auto;  
 }
 
 .container{
