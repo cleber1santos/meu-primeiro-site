@@ -71,6 +71,14 @@ outline: none;
 margin-top: 20px;
 }
 
+.card:hover{
+background-color: #dc2e69;
+color: rgb(255, 255, 255);
+margin-top: -30px;
+box-shadow: 2px 20px 25px #dc2e685d;
+border-color:#dc2e69;
+}
+
 .container.card:hover{
 background-color: #dc2e69;
 color: rgb(255, 255, 255);
